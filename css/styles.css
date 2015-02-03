@@ -1,0 +1,29 @@
+*{}
+
+body {
+    font-family: sans-serif;
+    color: black;
+}
+
+.text-gris {
+    color: #bcbbbb;
+}
+
+.title-super{}
+
+.title-logo{
+    margin-top: 20px;
+}
+
+.cover-pic{
+     margin-top: 20px;
+}
+
+.cover-pic-bar{
+     margin-top: 20px;
+     margin-bottom: 20px;
+}
+
+.sub-title{
+    margin-top: 20px;
+}
